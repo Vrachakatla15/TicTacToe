@@ -28,4 +28,7 @@ I'm thrilled to share that I've successfully developed a Tic Tac Toe game using 
 🚀 Excited to continue exploring the world of game development and coding! Stay tuned for more projects and updates.
 
 #Java #GameDevelopment #Programming #TicTacToe #CodingJourney #GitHub #IntelliJIDEA #JavaFX #Git #JUnit
-https://github.com/Vrachakatla15/TicTacToe-game-with-Python/assets/tictactoeoutput .mov
+# [TicTacToe Game With Java](assets/)
+
+<img align="center" src="assets/PythonSnakeGame.gif" alt="santhoshguntupalli" height="200" width="400" />
+
